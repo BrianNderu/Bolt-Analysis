@@ -7,8 +7,7 @@ This seek to understand trends and insights on an average bolt driver
 
 The project also seeks to conduct a forecast to predict a trend in a drivers earnings over 30 days
 
-This project seeks to develop a model to predict predict possibility of a driver getting more than 1000ksh in a day
-
+This project seeks to develop a Regression model on estimating profit of a driver
 ## Tools Used
 Matplot
 
@@ -21,4 +20,4 @@ Time series analysis
 skitlearn
 
 ## Findings
-
+1. The mean price of a ride is ksh 425
