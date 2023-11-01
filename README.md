@@ -21,3 +21,5 @@ skitlearn
 
 ## Findings
 1. The mean price of a ride is ksh 425
+
+2. Peak hours are from 10am to 3pm with 12noon being the busiest hour
