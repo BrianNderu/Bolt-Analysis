@@ -23,3 +23,9 @@ skitlearn
 1. The mean price of a ride is ksh 425
 
 2. Peak hours are from 10am to 3pm with 12noon being the busiest hour
+
+## Model Performance
+
+The lInear regression model had an rmse of 0.0125
+
+
