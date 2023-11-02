@@ -26,6 +26,6 @@ skitlearn
 
 ## Model Performance
 
-The lInear regression model had an rmse of 0.0125
+The linear regression model had an rmse of 0.0125
 
-
+Find the Analysis Notebook in the Repo HERE
